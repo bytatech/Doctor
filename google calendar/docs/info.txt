@@ -1,0 +1,61 @@
+https://github.com/divat/spring-oauth-google-login
+https://developers.google.com/google-apps/calendar/quickstart/java
+https://spring.io/guides/tutorials/spring-boot-oauth2/#_social_login_click
+https://github.com/bashofmann/oauth2_java_webapp_example
+http://dreamix.eu/blog/java/configuring-google-as-oauth2-authorization-provider-in-spring-boot
+
+
+https://keyholesoftware.com/2014/11/26/google-calendar-gadget-in-angular/
+https://developers.google.com/gadgets/docs/overview
+https://developers.google.com/gadgets/
+
+https://console.developers.google.com/apis/dashboard?project=event-image-update-system&authuser=1
+
+https://raymondhlee.wordpress.com/2014/12/21/implementing-oauth2-with-spring-security/
+
+google account permissions: https://security.google.com/settings/security/permissions?pli=1
+
+http://paxcel.net/blog/connecting-with-google-mail-account-or-google-calendar-using-java-google-client-library-in-java-spring-web-projects/
+
+http://stackoverflow.com/questions/27864295/how-to-use-oauth2resttemplate
+
+
+https://developers.google.com/google-apps/calendar/v3/reference/
+
+to add events
+https://developers.google.com/google-apps/calendar/v3/reference/events/insert
+
+
+maybe use the java objects in the rest calls?
+https://developers.google.com/api-client-library/java/google-http-java-client/json
+
+https://developers.google.com/google-apps/calendar/concepts/
+
+
+Translator for google widget:
+http://www.gmodules.com/gadgets/ifr?url=https%3A%2F%2Fdonhenton.github.io%2Fcalendar-gadget%2Fpublic_html%2Fgadget.xml?333
+
+
+
+
+
+sharing a calendar programmatically:
+
+http://stackoverflow.com/questions/21094240/who-owns-calendars-created-by-service-account-via-google-calendar-api-and-how-ca
+
+
+https://github.com/skate056/spring-security-oauth2-google/blob/master/src/main/resources/security-context.xml
+
+//searching files
+https://developers.google.com/drive/v3/web/search-parameters
+
+
+
+http://stackoverflow.com/questions/28373130/how-to-set-content-type-for-the-file-in-multipart-upload-when-using-resttemplate
+
+
+resttemplate from simple auth token:
+
+new OAuth2RestTemplate(resource, new DefaultOAuth2ClientContext(
+new DefaultOAuth2AccessToken(accessToken)))
+Resource- ResourceOwnerPasswordResourceDetails has all the client credentials, username and password.
